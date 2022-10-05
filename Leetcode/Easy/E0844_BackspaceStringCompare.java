@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-class E844_BackspaceStringCompare {
+class E0844_BackspaceStringCompare {
     public boolean backspaceCompare(String s, String t) {
         Stack<Character> stackS = new Stack<Character>();
         Stack<Character> stackT = new Stack<Character>();

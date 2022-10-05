@@ -2,7 +2,7 @@ import java.util.Stack;
 // import java.util.HashMap;
 // import java.util.ArrayList;
 
-public class E350_IntersectionOfTwoArraysII {
+public class E0350_IntersectionOfTwoArraysII {
     public static int[] intersect(int[] nums1, int[] nums2) {
         int[] counts1 = new int[1001];
         int[] counts2 = new int[1001];
