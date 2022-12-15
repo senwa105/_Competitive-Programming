@@ -9,7 +9,7 @@ typedef long double ld;
 typedef pair<ll, ll> pl;
 
 // macros
-#define G(x) ll x; cin >> x;                                    // read ll from cin and store its value
+#define G(x) ll x; cin >> x                                     // read ll from cin and store its value
 #define F(i, start, end) for (ll i = start; i < (end); i++)     // shortened for loop
 
 int main() {
